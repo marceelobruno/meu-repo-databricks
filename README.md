@@ -1,2 +1,2 @@
 # meu-repo-databricks
-LinuxTips Descomplicando SQL com Téomewhy
+LinuxTips Descomplicando SQL com Téomewhy.
